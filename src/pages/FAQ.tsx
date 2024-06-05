@@ -8,7 +8,7 @@ export default function FAQ() {
       <div className="flex items-center w-full gap-5 justify-evenly max-md:flex-col-reverse max-md:justify-center">
         <div className="my-10 md:my-20 max-md:text-center">
           <div className="relative pb-24">
-            <div className="text-2xl font-bold text-white">What is Rune Finance?</div>
+            <div className="text-2xl font-bold text-white">What is Runic Swap?</div>
             <div className="mt-3 text-normal max-w-[702px]">
               RuneFinance is not just about individual features; it's the synergy between them that creates a robust
               environment for the flourishing of DeFi endeavors. Through a conscious effort to integrate launchpad
@@ -21,11 +21,11 @@ export default function FAQ() {
           <div className="relative">
             <div className="text-2xl font-bold text-white">What we offer?</div>
             <div className="mt-3 text-normal max-w-[702px]">
-              Rune Finance offers a streamlined platform for rune transactions, including minting, swap, farming,
+              Runic Swap offers a streamlined platform for rune transactions, including minting, swap, farming,
               boding, and bridging. We support key features like DEX and bridges to facilitate trading and connectivity
               across blockchains. Compliance with Rune Standards ensures seamless integration within the ecosystem, our
               platform prioritizes efficient transaction indexing and robust security to protect your activities. With
-              an intuitive interface and dedicated support, Rune Finance is committed to providing a secure and
+              an intuitive interface and dedicated support, Runic Swap is committed to providing a secure and
               user-friendly experience for all your cryptocurrency needs.
             </div>
             <div className="absolute w-8 h-px bg-primary opacity-30 -left-12 top-5 max-md:hidden"></div>

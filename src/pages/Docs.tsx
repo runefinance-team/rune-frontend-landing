@@ -26,7 +26,7 @@ export default function Docs() {
     <div className="flex items-center justify-evenly min-h-[calc(100vh-160px)] max-lg:flex-col max-lg:gap-10 mb-10 max-md:mt-10">
       <div className="font-bold text-center text-page-title max-md:text-page-title-mobile">
         <img src="/assets/images/pen.svg" className="m-auto mb-5 w-18 h-18 max-md:w-10 max-md:h-10" alt="pen" />
-        <div>The Rune Finance Protocol</div>
+        <div>The Runic Swap Protocol</div>
       </div>
       <div className="w-px h-[500px] bg-primary opacity-30 max-lg:w-[100px] max-lg:h-px mx-4" />
       <div className="flex flex-col items-center justify-center gap-12 max-lg:gap-5">

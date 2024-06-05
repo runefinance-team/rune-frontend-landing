@@ -22,6 +22,7 @@ interface DatasetType {
     borderColor: string;
     borderWidth: number;
     backgroundColor: string;
+    tension: number;
   }[];
 }
 
@@ -34,6 +35,7 @@ const defaultTvlData: DatasetType = {
       borderColor: "#EAC544a0",
       borderWidth: 1,
       backgroundColor: "#EAC54460",
+      tension: 0.4
     },
   ],
 };
@@ -47,6 +49,7 @@ const defaultVolumeData: DatasetType = {
       borderColor: "rgba(255, 255, 255, 0.4)",
       borderWidth: 1,
       backgroundColor: "rgba(255, 255, 255, 0.3)",
+      tension: 0.4
     },
   ],
 };
@@ -317,7 +320,7 @@ export default function Home() {
           >
             <div className="-mt-5 xl:text-left">
               <div className="text-[20px] text-[#EAC544]">Today</div>
-              <div className="uppercase text-[20px] font-bold">Rune Finance</div>
+              <div className="uppercase text-[20px] font-bold">Runic Swap</div>
               <div className="text-[16px] opacity-60 text-[#c3c3c3] leading-snug">
                 RuneFinance heralds a new chapter in the world of decentralized finance (DeFi) by ingeniously blending
                 the capabilities of the Runestone standard with the power of Ordinals.
