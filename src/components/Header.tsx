@@ -88,7 +88,7 @@ export default function Header() {
         </Menu.Items>
       </Menu>
 
-      <Link to="https://app.runefinance.io/" target="_blank">
+      <Link to="https://app.runicswap.io/" target="_blank">
         <Button>Enter App</Button>
       </Link>
     </header>

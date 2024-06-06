@@ -322,7 +322,7 @@ export default function Home() {
               <div className="text-[20px] text-[#EAC544]">Today</div>
               <div className="uppercase text-[20px] font-bold">Runic Swap</div>
               <div className="text-[16px] opacity-60 text-[#c3c3c3] leading-snug">
-                RuneFinance heralds a new chapter in the world of decentralized finance (DeFi) by ingeniously blending
+                runicswap heralds a new chapter in the world of decentralized finance (DeFi) by ingeniously blending
                 the capabilities of the Runestone standard with the power of Ordinals.
               </div>
             </div>

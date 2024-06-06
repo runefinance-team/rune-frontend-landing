@@ -4,20 +4,20 @@ import { Link } from "react-router-dom";
 const documents = [
   {
     title: "Protocol Summary",
-    description: "Introducing RuneFinance, a DeFi innovation on Bitcoin blending Runestone and Ordinals for liquidity.",
-    url: "https://runefinance.gitbook.io/whitepaper/protocol-summary/what-is-rune-and-runestone",
+    description: "Introducing runicswap, a DeFi innovation on Bitcoin blending Runestone and Ordinals for liquidity.",
+    url: "https://runicswap.gitbook.io/whitepaper/protocol-summary/what-is-rune-and-runestone",
   },
   {
     title: "How does it work?",
     description:
       "Streamline user interaction within the DeFi space, offering a range of services for efficient asset handling.",
-      url: "https://runefinance.gitbook.io/whitepaper/how-runefinance-works/bridge-your-assets",
+      url: "https://runicswap.gitbook.io/whitepaper/how-runicswap-works/bridge-your-assets",
   },
   {
     title: "Developer Guide",
     description:
       "Technical aspects of building, deploying, and maintaining applications that interact with our services.",
-      url: "https://runefinance.gitbook.io/whitepaper/developer-guide/api-doc",
+      url: "https://runicswap.gitbook.io/whitepaper/developer-guide/api-doc",
   },
 ];
 

@@ -4,12 +4,12 @@ import VerticalTextSlider from "../components/VerticalTextSlider";
 const textItems = ["users", "developers", "designers", "educators"];
 const socials = {
   medium: {
-    url: "https://medium.com/@rune_finance",
+    url: "https://medium.com/@runicswap",
     icon: "/assets/images/socials/medium.svg",
     iconHover: "/assets/images/socials/medium-yellow.svg",
   },
   linktree: {
-    url: "https://linktr.ee/runefinance",
+    url: "https://linktr.ee/runicswap",
     icon: "/assets/images/socials/linktree.svg",
     iconHover: "/assets/images/socials/linktree-yellow.svg",
   },
@@ -19,22 +19,22 @@ const socials = {
     iconHover: "/assets/images/socials/discord-yellow.svg",
   },
   twitter: {
-    url: "https://twitter.com/RuneFinance_io",
+    url: "https://twitter.com/runicswap_io",
     icon: "/assets/images/socials/twitter.svg",
     iconHover: "/assets/images/socials/twitter-yellow.svg",
   },
   telegram: {
-    url: "https://t.me/RuneFinance_Official",
+    url: "https://t.me/runicswap_Official",
     icon: "/assets/images/socials/telegram.svg",
     iconHover: "/assets/images/socials/telegram-yellow.svg",
   },
   github: {
-    url: "https://github.com/runefinance",
+    url: "https://github.com/runicswap",
     icon: "/assets/images/socials/github.svg",
     iconHover: "/assets/images/socials/github-yellow.svg",
   },
   whitepaper: {
-    url: "https://runefinance.gitbook.io/whitepaper",
+    url: "https://runicswap.gitbook.io/whitepaper",
     icon: "/assets/images/socials/whitepaper.svg",
     iconHover: "/assets/images/socials/whitepaper-yellow.svg",
   },

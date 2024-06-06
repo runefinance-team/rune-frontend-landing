@@ -10,9 +10,9 @@ export default function FAQ() {
           <div className="relative pb-24">
             <div className="text-2xl font-bold text-white">What is Runic Swap?</div>
             <div className="mt-3 text-normal max-w-[702px]">
-              RuneFinance is not just about individual features; it's the synergy between them that creates a robust
+              runicswap is not just about individual features; it's the synergy between them that creates a robust
               environment for the flourishing of DeFi endeavors. Through a conscious effort to integrate launchpad
-              services, swapping capabilities, farming incentives, and bonding stability, RuneFinance is poised to
+              services, swapping capabilities, farming incentives, and bonding stability, runicswap is poised to
               become a cornerstone in the DeFi community.
             </div>
             <div className="absolute w-16 h-px bg-primary opacity-30 -left-20 top-5 max-md:hidden"></div>
@@ -33,7 +33,7 @@ export default function FAQ() {
         </div>
         <Logo3D className="my-5 md:my-10" />
       </div>
-      <Link to="https://runefinance.gitbook.io/whitepaper" target="_blank">
+      <Link to="https://runicswap.gitbook.io/whitepaper" target="_blank">
         <ActionButton className="mt-3 mb-16">Read More</ActionButton>
       </Link>
     </div>
