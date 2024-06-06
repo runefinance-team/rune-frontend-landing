@@ -41,7 +41,7 @@ export default function Header() {
     >
       <Link to="/" className="flex items-center cursor-pointer select-none">
         <img src="/logo_light.svg" alt="logo" className="w-8 h-8 mr-2" />
-        <div className="font-medium">Runic Swap</div>
+        <div className="font-medium">RunicSwap</div>
       </Link>
       <nav className="items-center hidden gap-12 font-medium sm:flex">
         <NavLink to="/ecosystem" className={getActiveLinkClass}>

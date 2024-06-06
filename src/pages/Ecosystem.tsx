@@ -31,7 +31,7 @@ export default function Ecosystem() {
   return (
     <div className="flex flex-col items-center justify-center">
       <div className="relative mt-24 font-bold text-center text-page-title max-md:text-page-title-mobile max-md:mt-14">
-        Explore the <span className="text-yellow">Runic Swap</span> Ecosystem
+        Explore the <span className="text-yellow">RunicSwap</span> Ecosystem
         <img
           className="absolute -top-[45px] left-[40px] max-md:scale-50"
           src="/assets/images/flight.png"
