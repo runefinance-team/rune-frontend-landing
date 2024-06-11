@@ -11,7 +11,7 @@ export default function Footer() {
         <Link className="transition-all hover:scale-125 active:scale-95" to="https://medium.com/@runicswap" target="_blank">
           <img src="/assets/images/socials/medium.svg" alt="medium" />
         </Link>
-        <Link className="transition-all hover:scale-125 active:scale-95" to="#" target="_blank">
+        <Link className="transition-all hover:scale-125 active:scale-95" to="https://discord.gg/vNnemhd2km" target="_blank">
           <img src="/assets/images/socials/discord.svg" alt="discord" />
         </Link>
         <Link className="transition-all hover:scale-125 active:scale-95" to="https://t.me/runicswap_Official" target="_blank">

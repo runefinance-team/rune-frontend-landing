@@ -14,7 +14,7 @@ const socials = {
     iconHover: "/assets/images/socials/linktree-yellow.svg",
   },
   discord: {
-    url: "#",
+    url: "https://discord.gg/vNnemhd2km",
     icon: "/assets/images/socials/discord.svg",
     iconHover: "/assets/images/socials/discord-yellow.svg",
   },
