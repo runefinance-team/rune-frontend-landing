@@ -33,7 +33,7 @@ export default function FAQ() {
         </div>
         <Logo3D className="my-5 md:my-10" />
       </div>
-      <Link to="https://runicswap.gitbook.io/whitepaper" target="_blank">
+      <Link to="https://docs.runicswap.io/whitepaper" target="_blank">
         <ActionButton className="mt-3 mb-16">Read More</ActionButton>
       </Link>
     </div>
