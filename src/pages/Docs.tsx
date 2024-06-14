@@ -5,19 +5,19 @@ const documents = [
   {
     title: "Protocol Summary",
     description: "Introducing runicswap, a DeFi innovation on Bitcoin blending Runestone and Ordinals for liquidity.",
-    url: "https://runicswap.gitbook.io/whitepaper/protocol-summary/what-is-rune-and-runestone",
+    url: "https://docs.runicswap.io/whitepaper/protocol-summary/what-is-rune-and-runestone",
   },
   {
     title: "How does it work?",
     description:
       "Streamline user interaction within the DeFi space, offering a range of services for efficient asset handling.",
-      url: "https://runicswap.gitbook.io/whitepaper/how-runicswap-works/bridge-your-assets",
+      url: "https://docs.runicswap.io/whitepaper/how-runicswap-works",
   },
   {
     title: "Developer Guide",
     description:
       "Technical aspects of building, deploying, and maintaining applications that interact with our services.",
-      url: "https://runicswap.gitbook.io/whitepaper/developer-guide/api-doc",
+      url: "https://docs.runicswap.io/whitepaper/developer-guide",
   },
 ];
 
