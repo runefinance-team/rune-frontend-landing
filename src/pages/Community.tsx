@@ -14,17 +14,17 @@ const socials = {
     iconHover: "/assets/images/socials/linktree-yellow.svg",
   },
   discord: {
-    url: "https://discord.gg/vNnemhd2km",
+    url: "https://discord.gg/runicswap",
     icon: "/assets/images/socials/discord.svg",
     iconHover: "/assets/images/socials/discord-yellow.svg",
   },
   twitter: {
-    url: "https://twitter.com/runicswap_io",
+    url: "https://twitter.com/Runicswap",
     icon: "/assets/images/socials/twitter.svg",
     iconHover: "/assets/images/socials/twitter-yellow.svg",
   },
   telegram: {
-    url: "https://t.me/runicswap_Official",
+    url: "https://t.me/Runicswap",
     icon: "/assets/images/socials/telegram.svg",
     iconHover: "/assets/images/socials/telegram-yellow.svg",
   },
@@ -34,7 +34,7 @@ const socials = {
     iconHover: "/assets/images/socials/github-yellow.svg",
   },
   whitepaper: {
-    url: "https://runicswap.gitbook.io/whitepaper",
+    url: "https://docs.runicswap.io/whitepaper",
     icon: "/assets/images/socials/whitepaper.svg",
     iconHover: "/assets/images/socials/whitepaper-yellow.svg",
   },
